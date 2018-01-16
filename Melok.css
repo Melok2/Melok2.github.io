@@ -1,0 +1,85 @@
+div#text {
+    width: 62%;
+    margin: 0 auto;
+    padding: 20px 50px;
+    background-color: #e8eff7;
+    margin-top: 13vh;
+}
+
+span#dribble{
+    font-size: 13px;
+    font-style: inherit;
+    position: relative;
+    top: 12px;
+}
+
+#dribblelogo, #dribblelogo:hover{
+    font-weight: 300;
+    color: #9d9c9c;
+}
+
+span#space{
+    position: relative;
+    top: -18px;
+}
+
+body{
+    font-family: Montserrat,"Helvetica Neue", Roboto, "Caviar Dreams", Calibri, "Californian FB";
+    font-weight: 100;
+    background-color: #f9f9f9;
+    color: #9d9c9c;
+    font-size: 14px;
+    background: url("beasty-356324.jpg");
+}
+
+span#outerspace{
+    font-size: 60px;
+    font-weight: bold;
+    display: block;
+}
+
+span#limitless{
+    font-style: italic;
+    border-top: 1px solid #9d9c9c ;
+    padding-top: 20px;
+}
+
+img{
+    width: 345px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+#second{
+    display: inline-block;
+    margin-left: 60px;
+    width: 20%;
+    vertical-align: top;
+    margin-top: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: #9d9c9c;
+    font-size: 12px;
+}
+.navbar-default .navbar-nav > li > a{
+    color: #9d9c9c;
+    font-family: "Montserrat","Helvetica Neue", Roboto, "Caviar Dreams", Calibri, "Californian FB";
+    outline: none;
+}
+
+.nav > li  .user-auth-img {
+    height: 40px;
+    width: 40px;
+    border: none;
+}
+
+#auth{
+    padding-top: 4px;
+}
+
+.nav>li>a:hover {
+    text-decoration: none;
+    background-color: #e8eff7;
+}
